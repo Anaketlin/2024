@@ -19,5 +19,7 @@ body{
     font-family: 'Chakra Petch', 'Sans-Serif'
 }
 .conteudo-principal{
-    background-color: rgb(50, 95, 90);
+    display: flex;
+    flex-direction: column;
+
 }
