@@ -7,7 +7,7 @@
         --verde: #084A56;
         --verde-claro: #6FC9C0;
         --verde-limao: #6FFF57;
-        --botao-inativo: rgba(197, 46, 172, 0.726);
+        --botao-inativo:rgba(197, 46, 172, 0.726);
         --botao-ativo: rgba(17, 209, 243, 0.795);
         --texto-fundo: rgba(13, 105, 122, 0.3);
     }
@@ -49,4 +49,8 @@ body{
     border-left: 2px solid var(--botao-ativo);
     border-right: 2px solid var(--botao-ativo);
     border-top: none;
+    }
+.botao{
+    border-radius: 40px;
+
     }
