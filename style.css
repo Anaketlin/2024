@@ -55,7 +55,6 @@ body{
     }
     @media screen and (min-width: 768px){
         .botao{
-            display: flex;
-            
+            display: flex; 
         }
     }     
