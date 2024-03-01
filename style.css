@@ -2,7 +2,7 @@
 
     :root{
         --branco: #ffffff;
-        --cor-de-fundo: #2a6862;
+        --cor-de-fundo: #8fb3e2;
         --cor-rosa:#C568CC;
         --verde: #084A56;
         --verde-claro: #6FC9C0;
@@ -39,4 +39,9 @@ body{
     font-family: 'Chakra Petch','Sans-Serif';
     background-color: var(--botao-inativo);
     color: var(--branco);
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    font-size: 18px;
+    align-items: center;
     }
